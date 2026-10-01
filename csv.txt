@@ -1,0 +1,8 @@
+CSV;N;M;operacao;fase1_ns;fase3_ns
+CSV;10000;1000;R1 cadastrar;13509.5;287.7
+CSV;10000;1000;R2 buscar_cadastro;11473.0;16.8
+CSV;10000;1000;R3 dar_entrada;17462.6;89.5
+CSV;10000;1000;R4 chamar_proximo;9369.3;567.6
+CSV;10000;1000;R5 desistir;2962.1;19.9
+CSV;10000;1000;insertion_sort_ms;1.15;
+CSV;10000;1000;merge_sort_ms;0.21;
